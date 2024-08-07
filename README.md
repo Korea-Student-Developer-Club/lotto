@@ -1,2 +1,0 @@
-# lotto
-lotto with KotlinMultiplatfrom
